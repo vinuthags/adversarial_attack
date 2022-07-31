@@ -115,7 +115,7 @@ jupyter notebook
 ## Usage
 
 1. Ways to run the project on Colab/ Jupyter is illustrated below. Please note using Run All will take awhile for the entire notebook to finish running.
-(Code section to build CNN ~ 10-15 minutes(depends on system), adversarial training on 5000 images ~ 10-15 minutes, APE-GAN training > 20 minutes for 10 epochs)
+(Code section to build CNN ~ 10-15 minutes(depends on system), adversarial training on 5000 images ~ 10-15 minutes, APE-GAN training  60-120 minutes for 10 epochs)
 <p float="left" >
 <img src="https://github.com/ACM40960/project-21200461/blob/main/images/run.jpg"  width=300  title="Jupyter- Run options"/>
 <img src="https://github.com/ACM40960/project-21200461/blob/main/images/colab_run.jpg"  width=300 title="Colab-Run options"/>
