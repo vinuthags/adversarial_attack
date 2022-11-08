@@ -153,4 +153,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
-[@vinuthags](https://github.com/vinuthags) - vinutha.shivakumar@ucdconnect.ie
+[@vinuthags](https://github.com/vinuthags)
